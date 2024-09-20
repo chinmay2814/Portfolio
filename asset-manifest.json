@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio%20/static/css/main.a01ca9e2.css",
+    "main.js": "/Portfolio%20/static/js/main.26cf719a.js",
+    "static/js/453.aac68abc.chunk.js": "/Portfolio%20/static/js/453.aac68abc.chunk.js",
+    "static/media/HMP_OJ.png": "/Portfolio%20/static/media/HMP_OJ.e1db65c77e5b76d64b26.png",
+    "static/media/Cadence.png": "/Portfolio%20/static/media/Cadence.5dbf22ac5942cf0de5ee.png",
+    "index.html": "/Portfolio%20/index.html",
+    "main.a01ca9e2.css.map": "/Portfolio%20/static/css/main.a01ca9e2.css.map",
+    "main.26cf719a.js.map": "/Portfolio%20/static/js/main.26cf719a.js.map",
+    "453.aac68abc.chunk.js.map": "/Portfolio%20/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a01ca9e2.css",
+    "static/js/main.26cf719a.js"
+  ]
+}
